@@ -30,13 +30,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+The dom (document object model) is a representation of the HTML, CSS, and Javascript that makes up a webpage. We can manipulate the DOM to give a static webpage functionality
+
 2. What is an event?
+
+keywords used inside eventListeners that specifies how a function will be triggered. examples include "click" "mouseover" and "resize"
 
 3. What is an event listener?
 
+made up of an event and the function that is triggered when the event is enacted
+
 4. Why would we convert a NodeList into an Array?
 
+Arrays have access to lot of useful methods that a nodelist does not
+
 5. What is a component?
+
+A collection of HTML, CSS, and Javascript which is can be used to create the same element multiple times
 
 ### Git Set up
 
