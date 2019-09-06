@@ -14,6 +14,9 @@ axios.get(`https://lambda-times-backend.herokuapp.com/topics`).then( (result) =>
         topics.appendChild(createTopic(item));
     })
 })
+.catch((error) => {
+    console.log(error)
+})
 
 
 
